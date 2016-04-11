@@ -16,6 +16,7 @@ Contents
    ResourceFiles.rst
    PeterThiel_Questions.rst
    NDCourseOutline.rst
+   Rubrics.rst
    PodcastSummaries.rst
    CourseResources.rst
    SuggestedReading.rst

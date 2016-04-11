@@ -5,3 +5,7 @@ h1, h2, h3 {
 .wy-side-nav-search {
     background-color: rgb(0,179,233);
 }
+
+.underline {
+    text-decoration: underline;
+}
